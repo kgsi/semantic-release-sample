@@ -2,6 +2,7 @@
   "name": "semantic-release-sample",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install"
@@ -11,6 +12,7 @@
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
     "@commitlint/config-conventional": "^13.1.0",
-    "husky": "^7.0.0"
+    "husky": "^7.0.0",
+    "semantic-release": "^17.4.5"
   }
 }
