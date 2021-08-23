@@ -1,4 +1,4 @@
-name: Release dry Run
+name: Dry run release
 on:
   workflow_run:
     workflows:
