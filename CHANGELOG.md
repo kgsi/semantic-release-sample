@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [1.8.0](https://github.com/kgsi/semantic-release-sample/compare/v1.7.0...v1.8.0) (2021-08-23)
+
+
+### Bug Fixes
+
+* update ([8f87bb2](https://github.com/kgsi/semantic-release-sample/commit/8f87bb204ef37d210807f928331b32d5d96aa1da))
+
+
+### Features
+
+* setting CI ([25d8cba](https://github.com/kgsi/semantic-release-sample/commit/25d8cba324cfc1e368e5773d1ac3dd476c029c50))
+
 # [1.7.0](https://github.com/kgsi/semantic-release-sample/compare/v1.6.0...v1.7.0) (2021-08-23)
 
 
