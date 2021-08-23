@@ -1,13 +1,8 @@
-name: Release
+name: DryRunRelease
 on:
-  workflow_run:
-    workflows:
-      - DryRunRelease
+  push:
     branches:
       - main
-    types:
-      - completed
-  workflow_dispatch:
 
 jobs:
   release:
@@ -28,4 +23,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npx semantic-release
+        run: npx semantic-release --dry-run
