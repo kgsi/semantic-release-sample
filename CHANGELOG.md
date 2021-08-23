@@ -1,3 +1,17 @@
+# [1.5.0](https://github.com/kgsi/semantic-release-sample/compare/v1.4.0...v1.5.0) (2021-08-23)
+
+
+### Features
+
+* update ([9177c09](https://github.com/kgsi/semantic-release-sample/commit/9177c09cdafe2f30435b394f7433b61b994650f4))
+* update ([c13e1b1](https://github.com/kgsi/semantic-release-sample/commit/c13e1b1e9039393c3d0f03bc3c97f0ad1ea1aec7))
+* update ([bace8f2](https://github.com/kgsi/semantic-release-sample/commit/bace8f2d18fc46714bcfe000979be1e4f98a3fbb))
+* update ([cd796ed](https://github.com/kgsi/semantic-release-sample/commit/cd796ed66c4c1e628d0d618fd4ea0e6be5209fa5))
+* update ([7c11533](https://github.com/kgsi/semantic-release-sample/commit/7c1153311b30e469da66a71e7e51e427394d4b44))
+* update ([484d070](https://github.com/kgsi/semantic-release-sample/commit/484d070eecb5a0ac3fb958115e720c5fa9efd72c))
+* update ([f877ec4](https://github.com/kgsi/semantic-release-sample/commit/f877ec47e8b22766c20f2af23d9a661d1e7b0b65))
+* update ([a3785d1](https://github.com/kgsi/semantic-release-sample/commit/a3785d14228e11ed09c28be66e82235d322939f2))
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
