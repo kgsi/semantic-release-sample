@@ -1,12 +1,8 @@
 name: Dry run release
 on:
-  workflow_run:
-    workflows:
-      - Build & Test
+  push:
     branches:
       - main
-    types:
-      - completed
 
 jobs:
   release:
