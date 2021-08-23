@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.1](https://github.com/kgsi/semantic-release-sample/compare/v1.9.0...v1.9.1) (2021-08-23)
+
+
+### Bug Fixes
+
+* fix CI ([90d1504](https://github.com/kgsi/semantic-release-sample/commit/90d1504425ba1a45e85f3e90432fa49de3ca525a))
+
 # [1.9.0](https://github.com/kgsi/semantic-release-sample/compare/v1.8.0...v1.9.0) (2021-08-23)
 
 
