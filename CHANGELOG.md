@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/kgsi/semantic-release-sample/compare/v1.5.0...v1.6.0) (2021-08-23)
+
+
+### Features
+
+* update ([697d493](https://github.com/kgsi/semantic-release-sample/commit/697d493f7fa9a4aed38ebc559c9049f284d8164c))
+
 # [1.5.0](https://github.com/kgsi/semantic-release-sample/compare/v1.4.0...v1.5.0) (2021-08-23)
 
 
