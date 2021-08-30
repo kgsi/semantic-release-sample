@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.10.1](https://github.com/kgsi/semantic-release-sample/compare/v1.10.0...v1.10.1) (2021-08-30)
+
+
+### Bug Fixes
+
+* package name fixed ([0b98ac7](https://github.com/kgsi/semantic-release-sample/commit/0b98ac7008d83fd3688d4ad80d0e7742b35595f8))
+* publish name ([8946640](https://github.com/kgsi/semantic-release-sample/commit/89466403af95b8acec2ffed0679312c39a932c85))
+
 # [1.10.0](https://github.com/kgsi/semantic-release-sample/compare/v1.9.1...v1.10.0) (2021-08-30)
 
 
