@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-sample",
-  "version": "1.9.1",
+  "version": "0.0.0-development",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
@@ -19,6 +19,10 @@
     "@semantic-release/github": "^7.2.3",
     "@semantic-release/release-notes-generator": "^9.0.3",
     "husky": "^7.0.0",
-    "semantic-release": "^17.4.5"
+    "semantic-release": "^17.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kgsi/semantic-release-sample.git"
   }
 }
