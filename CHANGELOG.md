@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [1.10.0](https://github.com/kgsi/semantic-release-sample/compare/v1.9.1...v1.10.0) (2021-08-30)
+
+
+### Bug Fixes
+
+* delete private flag ([f793df4](https://github.com/kgsi/semantic-release-sample/commit/f793df45605bc461491acd973ba6455f962f0933))
+* yarn.lock ([b9f6012](https://github.com/kgsi/semantic-release-sample/commit/b9f6012c46357b50333c8cb7ded601a85c601fa8))
+
+
+### Features
+
+* npm test ([951ce6c](https://github.com/kgsi/semantic-release-sample/commit/951ce6ce11d9cc0c9e736ee32ff58b9429a7297c))
+
 ## [1.9.1](https://github.com/kgsi/semantic-release-sample/compare/v1.9.0...v1.9.1) (2021-08-23)
 
 

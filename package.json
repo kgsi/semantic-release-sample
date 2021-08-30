@@ -1,6 +1,6 @@
 {
-  "name": "semantic-release-sample-from-kgsi",
-  "version": "0.0.0-development",
+  "name": "semantic-release-sample",
+  "version": "1.10.0",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
