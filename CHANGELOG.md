@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [1.11.0](https://github.com/kgsi/semantic-release-sample/compare/v1.10.1...v1.11.0) (2021-09-26)
+
+
+### Features
+
+* add rule ([#10](https://github.com/kgsi/semantic-release-sample/issues/10)) ([da86d14](https://github.com/kgsi/semantic-release-sample/commit/da86d148bb23d79c82fdca14046f3c2b4e3956f3))
+* add token ([#12](https://github.com/kgsi/semantic-release-sample/issues/12)) ([483a093](https://github.com/kgsi/semantic-release-sample/commit/483a0938549a4061d0347b62185af491eca1b693))
+* fix release task ([#9](https://github.com/kgsi/semantic-release-sample/issues/9)) ([15e5040](https://github.com/kgsi/semantic-release-sample/commit/15e5040490fefaae6725518b13b9a559dd0c6c87))
+* fix setting ([#11](https://github.com/kgsi/semantic-release-sample/issues/11)) ([cd19a1b](https://github.com/kgsi/semantic-release-sample/commit/cd19a1ba9a3c30cc68288cbb82322568c8a31d5e))
+* remove dry-run ([#8](https://github.com/kgsi/semantic-release-sample/issues/8)) ([5bf0a41](https://github.com/kgsi/semantic-release-sample/commit/5bf0a418cfecccd7e44065316e71df7a68280e78))
+* update test task ([#7](https://github.com/kgsi/semantic-release-sample/issues/7)) ([3d89e35](https://github.com/kgsi/semantic-release-sample/commit/3d89e35e2e2d799109fd4310d9e0fc0729ef8400))
+
 ## [1.10.1](https://github.com/kgsi/semantic-release-sample/compare/v1.10.0...v1.10.1) (2021-08-30)
 
 
